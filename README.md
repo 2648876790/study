@@ -1,6 +1,6 @@
 #### 学习笔记
 
-`[可点此直接访问哦](https://github.com/2648876790/study)`
+`[可点此直接访问哦](https://2648876790.github.io/study/)`
     链接：https://github.com/2648876790/study
 
 <font color="#0000ff">
